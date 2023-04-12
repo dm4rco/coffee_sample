@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BiH_Coffee</string>
+
+    <!-- General -->
+    <string name="confirm">OK</string>
+    <string name="decline">Cancel</string>
+
+    <!-- Details Screen -->
+    <string name="liked">Liked: %1$s</string>
+    <string name="picture">%1$s Picture</string>
+    <string name="description">Description: %1$s</string>
+    <string name="ingredient_list">Ingredients: %1$s</string>
+    <string name="write_review">Write a review</string>
+
+    <!-- Review Screen -->
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_review">Enter your review</string>
+    <string name="change_date">Change the date</string>
+    <string name="date_picker_title">When did you have this drink?</string>
+    <string name="list_of_likable_options">Select which things you liked about the drink:</string>
+    <string name="send_review">Send review</string>
+
+</resources>
